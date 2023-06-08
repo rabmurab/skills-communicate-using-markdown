@@ -4,3 +4,6 @@ This is a lesson created by Github to teach new programmers how to use Github. I
 This is my first time of using Markdown.
 `$ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/`
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
